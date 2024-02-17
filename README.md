@@ -1,2 +1,1 @@
-dctarnak_codes
-This repo contains miscellaneous codes.
+This repository is for predictive analytics codes for various challenges across the web.
